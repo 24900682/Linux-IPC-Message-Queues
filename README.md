@@ -85,7 +85,8 @@ int main()
 }
 ```
 ## OUTPUT
-![alt text](3..png)
+![image](https://github.com/user-attachments/assets/9055ee3e-451b-4b0b-9eb8-bc4e0fc5d1c2)
+
 
 # RESULT:
 The programs are executed successfully.
